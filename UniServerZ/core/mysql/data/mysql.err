@@ -1,0 +1,36 @@
+150413 15:38:11 [Note] Plugin 'FEDERATED' is disabled.
+150413 15:38:11 InnoDB: The InnoDB memory heap is disabled
+150413 15:38:11 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+150413 15:38:11 InnoDB: Compressed tables use zlib 1.2.3
+150413 15:38:11 InnoDB: Initializing buffer pool, size = 16.0M
+150413 15:38:11 InnoDB: Completed initialization of buffer pool
+InnoDB: The first specified data file G:\RMIT\Building_IT_Systems\Github_BITS_PupilRadio\UniServerZ\core\mysql\data\ibdata1 did not exist:
+InnoDB: a new database to be created!
+150413 15:38:11  InnoDB: Setting file G:\RMIT\Building_IT_Systems\Github_BITS_PupilRadio\UniServerZ\core\mysql\data\ibdata1 size to 10 MB
+InnoDB: Database physically writes the file full: wait...
+150413 15:38:16  InnoDB: Log file G:\RMIT\Building_IT_Systems\Github_BITS_PupilRadio\UniServerZ\core\mysql\data\ib_logfile0 did not exist: new to be created
+InnoDB: Setting log file G:\RMIT\Building_IT_Systems\Github_BITS_PupilRadio\UniServerZ\core\mysql\data\ib_logfile0 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+150413 15:38:19  InnoDB: Log file G:\RMIT\Building_IT_Systems\Github_BITS_PupilRadio\UniServerZ\core\mysql\data\ib_logfile1 did not exist: new to be created
+InnoDB: Setting log file G:\RMIT\Building_IT_Systems\Github_BITS_PupilRadio\UniServerZ\core\mysql\data\ib_logfile1 size to 5 MB
+InnoDB: Database physically writes the file full: wait...
+InnoDB: Doublewrite buffer not found: creating new
+InnoDB: Doublewrite buffer created
+InnoDB: 127 rollback segment(s) active.
+InnoDB: Creating foreign key constraint system tables
+InnoDB: Foreign key constraint system tables created
+150413 15:38:25  InnoDB: Waiting for the background threads to start
+150413 15:38:26 InnoDB: 5.5.42 started; log sequence number 0
+150413 15:38:26 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+150413 15:38:26 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+150413 15:38:26 [Note] Server socket created on IP: '127.0.0.1'.
+150413 15:38:28 [Note] Event Scheduler: Loaded 0 events
+150413 15:38:28 [Note] G:\RMIT\Building_IT_Systems\Github_BITS_PupilRadio\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.5.42'  socket: ''  port: 3306  MySQL Community Server (GPL)
+150413 16:07:03 [Note] G:\RMIT\Building_IT_Systems\Github_BITS_PupilRadio\UniServerZ\core\mysql\bin\mysqld_z.exe: Normal shutdown
+
+150413 16:07:03 [Note] Event Scheduler: Purging the queue. 0 events
+150413 16:07:03  InnoDB: Starting shutdown...
+150413 16:07:05  InnoDB: Shutdown completed; log sequence number 1617959
+150413 16:07:05 [Note] G:\RMIT\Building_IT_Systems\Github_BITS_PupilRadio\UniServerZ\core\mysql\bin\mysqld_z.exe: Shutdown complete
+
