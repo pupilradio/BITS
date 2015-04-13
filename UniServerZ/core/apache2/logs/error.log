@@ -3,3 +3,9 @@
 [Mon Apr 13 15:38:39.180299 2015] [core:notice] [pid 7228:tid 660] AH00094: Command line: 'G:\\RMIT\\Building_IT_Systems\\Github_BITS_PupilRadio\\UniServerZ\\core\\apache2\\bin\\httpd_z.exe -d G:/RMIT/Building_IT_Systems/Github_BITS_PupilRadio/UniServerZ/core/apache2 -f G:\\RMIT\\Building_IT_Systems\\Github_BITS_PupilRadio\\UniServerZ\\core\\apache2\\conf\\httpd.conf -d G:\\RMIT\\Building_IT_Systems\\Github_BITS_PupilRadio\\UniServerZ\\core\\apache2'
 [Mon Apr 13 15:38:39.238340 2015] [mpm_winnt:notice] [pid 7228:tid 660] AH00418: Parent: Created child process 7132
 [Mon Apr 13 15:38:55.130281 2015] [mpm_winnt:notice] [pid 7132:tid 632] AH00354: Child: Starting 150 worker threads.
+[Mon Apr 13 16:12:22.318772 2015] [core:warn] [pid 11564:tid 328] AH00098: pid file G:/RMIT/Building_IT_Systems/Github_BITS_PupilRadio/UniServerZ/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Apr 13 16:12:25.316772 2015] [mpm_winnt:notice] [pid 11564:tid 328] AH00455: Apache/2.4.12 (Win32) PHP/5.4.39 configured -- resuming normal operations
+[Mon Apr 13 16:12:25.317773 2015] [mpm_winnt:notice] [pid 11564:tid 328] AH00456: Apache Lounge VC10 Server built: Mar 22 2015 13:04:01
+[Mon Apr 13 16:12:25.317773 2015] [core:notice] [pid 11564:tid 328] AH00094: Command line: 'G:\\RMIT\\Building_IT_Systems\\Github_BITS_PupilRadio\\UniServerZ\\core\\apache2\\bin\\httpd_z.exe -d G:/RMIT/Building_IT_Systems/Github_BITS_PupilRadio/UniServerZ/core/apache2 -f G:\\RMIT\\Building_IT_Systems\\Github_BITS_PupilRadio\\UniServerZ\\core\\apache2\\conf\\httpd.conf -d G:\\RMIT\\Building_IT_Systems\\Github_BITS_PupilRadio\\UniServerZ\\core\\apache2'
+[Mon Apr 13 16:12:25.336787 2015] [mpm_winnt:notice] [pid 11564:tid 328] AH00418: Parent: Created child process 9392
+[Mon Apr 13 16:12:40.834102 2015] [mpm_winnt:notice] [pid 9392:tid 664] AH00354: Child: Starting 150 worker threads.
