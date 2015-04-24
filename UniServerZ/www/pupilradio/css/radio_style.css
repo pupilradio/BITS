@@ -1,0 +1,148 @@
+@charset "utf-8";
+/* CSS Document */
+
+html {
+  height: 100%;
+}
+
+body {
+  background-color: transparent;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+.headercontainer {
+  background: url(../images/bg_HeadFoot.png) repeat-x;
+  min-width: 999px;
+  height: 60px;
+  border: 1px solid #666;
+  left: 0;
+}
+
+div#hmenu {
+  margin: 40px 0px 0px -45px;
+  background-color: transparent;
+  width: 100%;
+  text-align: right;
+}
+
+div#hmenu ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+div#hmenu ul li {
+  margin: 0;
+  padding: 0;
+  display: inline;
+}
+
+div#hmenu ul a:link {
+  margin: 0;
+  padding: 0px 20px 0px 20px;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 16px;
+  font-variant: small-caps;
+  color: #FFFFFF;
+}
+
+div#hmenu ul a:visited {
+  margin: 0;
+  padding: 0px 20px 0px 20px;
+  text-decoration: none;
+  font-variant: small-caps;
+  color: forestgreen;
+}
+
+div#hmenu ul a:active {
+  margin: 0;
+  padding: 0px 20px 0px 20px;
+  text-decoration: none;
+  font-variant: small-caps;
+  color: # F00;
+}
+
+div#hmenu ul a:hover {
+  margin: 0;
+  padding: 0px 20px 0px 20px;
+  text-decoration: none;
+  font-variant: small-caps;
+  color: #FFFFFF;
+}
+
+.mainbodycontainer {
+  margin: 0 auto;
+  overflow: auto;
+  background-color: rgb(250,250,250);
+  min-width: 999px;
+  min-height: 100%;
+  background: url(../images/bg_img.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#player {
+  color: white;
+  height: 50px;
+  padding-bottom: 20px;
+  position: absolute;
+  bottom: 50px;
+  margin-right: 50%;
+  margin-left: 50%;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.footercontainer {
+  background: url(../images/bg_HeadFoot.png) repeat-x;
+  width: 100%;
+  height: 50px;
+  left: 0;
+  position: fixed;
+  bottom: 0;
+}
+
+p.copyright {
+  float: right;
+  width: auto;
+  color: #FFFFFF;
+  font-size: 11px;
+  padding-right: 10px;
+}
+
+p.links {
+  padding-left: 10px;
+  float: left;
+  width: auto;
+  color: #fff;
+  text-align: right;
+  font-size: 11px;
+  text-transform: uppercase;
+}
+
+p.links, a {
+  padding-left: 10px;
+  text-decoration: none;
+  padding: 0px 5px 0px 5px;
+  color: #00FF00;
+}
+
+a:hover {
+  color: #FFFFFF;
+}
+
+.header {
+  margin: 0px auto;
+  width: 999px;
+}
+
+.mainbody {
+  margin: 0px auto;
+  width: 999px;
+}
