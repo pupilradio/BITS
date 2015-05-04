@@ -50,3 +50,24 @@
 [Thu Apr 30 21:42:52.068162 2015] [mpm_winnt:notice] [pid 5748:tid 372] AH00418: Parent: Created child process 11900
 [Thu Apr 30 21:43:00.053722 2015] [mpm_winnt:notice] [pid 11900:tid 696] AH00354: Child: Starting 150 worker threads.
 [Thu Apr 30 21:43:00.069348 2015] [:error] [pid 11900:tid 1864] [client ::1:51515] script 'G:/RMIT/Building_IT_Systems/Github_BITS_PupilRadio/BitsPupilRadio/UniServerZ/www/index.php' not found or unable to stat
+[Fri May 01 20:36:49.897535 2015] [core:warn] [pid 2316:tid 448] AH00098: pid file C:/Users/Daniel/Documents/BITS/UniServerZ/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri May 01 20:36:50.505157 2015] [mpm_winnt:notice] [pid 2316:tid 448] AH00455: Apache/2.4.12 (Win32) PHP/5.4.39 configured -- resuming normal operations
+[Fri May 01 20:36:50.506158 2015] [mpm_winnt:notice] [pid 2316:tid 448] AH00456: Apache Lounge VC10 Server built: Mar 22 2015 13:04:01
+[Fri May 01 20:36:50.506158 2015] [core:notice] [pid 2316:tid 448] AH00094: Command line: 'C:\\Users\\Daniel\\Documents\\BITS\\UniServerZ\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/Daniel/Documents/BITS/UniServerZ/core/apache2 -f C:\\Users\\Daniel\\Documents\\BITS\\UniServerZ\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\Daniel\\Documents\\BITS\\UniServerZ\\core\\apache2'
+[Fri May 01 20:36:50.521168 2015] [mpm_winnt:notice] [pid 2316:tid 448] AH00418: Parent: Created child process 6940
+[Fri May 01 20:36:51.120565 2015] [mpm_winnt:notice] [pid 6940:tid 668] AH00354: Child: Starting 150 worker threads.
+[Fri May 01 20:36:51.463719 2015] [:error] [pid 6940:tid 1868] [client ::1:50176] script 'C:/Users/Daniel/Documents/BITS/UniServerZ/www/index.php' not found or unable to stat
+[Fri May 01 20:40:19.778103 2015] [core:warn] [pid 3736:tid 396] AH00098: pid file C:/Users/Daniel/Documents/BITS/UniServerZ/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri May 01 20:40:19.793727 2015] [mpm_winnt:notice] [pid 3736:tid 396] AH00455: Apache/2.4.12 (Win32) PHP/5.4.39 configured -- resuming normal operations
+[Fri May 01 20:40:19.793727 2015] [mpm_winnt:notice] [pid 3736:tid 396] AH00456: Apache Lounge VC10 Server built: Mar 22 2015 13:04:01
+[Fri May 01 20:40:19.793727 2015] [core:notice] [pid 3736:tid 396] AH00094: Command line: 'C:\\Users\\Daniel\\Documents\\BITS\\UniServerZ\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/Daniel/Documents/BITS/UniServerZ/core/apache2 -f C:\\Users\\Daniel\\Documents\\BITS\\UniServerZ\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\Daniel\\Documents\\BITS\\UniServerZ\\core\\apache2'
+[Fri May 01 20:40:19.793727 2015] [mpm_winnt:notice] [pid 3736:tid 396] AH00418: Parent: Created child process 6904
+[Fri May 01 20:40:20.340629 2015] [mpm_winnt:notice] [pid 6904:tid 656] AH00354: Child: Starting 150 worker threads.
+[Fri May 01 20:40:23.319158 2015] [:error] [pid 6904:tid 1864] [client ::1:50327] script 'C:/Users/Daniel/Documents/BITS/UniServerZ/www/index.php' not found or unable to stat
+[Mon May 04 10:38:53.091368 2015] [core:warn] [pid 1368:tid 384] AH00098: pid file C:/Users/Daniel/Documents/BITS/UniServerZ/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon May 04 10:38:54.185169 2015] [mpm_winnt:notice] [pid 1368:tid 384] AH00455: Apache/2.4.12 (Win32) PHP/5.4.39 configured -- resuming normal operations
+[Mon May 04 10:38:54.185169 2015] [mpm_winnt:notice] [pid 1368:tid 384] AH00456: Apache Lounge VC10 Server built: Mar 22 2015 13:04:01
+[Mon May 04 10:38:54.185169 2015] [core:notice] [pid 1368:tid 384] AH00094: Command line: 'C:\\Users\\Daniel\\Documents\\BITS\\UniServerZ\\core\\apache2\\bin\\httpd_z.exe -d C:/Users/Daniel/Documents/BITS/UniServerZ/core/apache2 -f C:\\Users\\Daniel\\Documents\\BITS\\UniServerZ\\core\\apache2\\conf\\httpd.conf -d C:\\Users\\Daniel\\Documents\\BITS\\UniServerZ\\core\\apache2'
+[Mon May 04 10:38:54.247670 2015] [mpm_winnt:notice] [pid 1368:tid 384] AH00418: Parent: Created child process 7020
+[Mon May 04 10:38:55.825870 2015] [mpm_winnt:notice] [pid 7020:tid 648] AH00354: Child: Starting 150 worker threads.
+[Mon May 04 10:39:02.648037 2015] [:error] [pid 7020:tid 1864] [client ::1:49220] script 'C:/Users/Daniel/Documents/BITS/UniServerZ/www/index.php' not found or unable to stat
