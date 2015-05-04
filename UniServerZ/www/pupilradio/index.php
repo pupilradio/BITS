@@ -27,15 +27,16 @@
                 </div>
             </div>
             <div class='mainbodycontainer'>
-                <div id="player">
-                    <audio controls preload="metadata" style=" width:300px;">
-                        <source src="songs/Taylor Swift - Blank Space.mp3" type="audio/mpeg">
-	Your browser does not support the audio element.
-
-                        </audio>
-                        <br />
-                    </div>
-                    <!-- #player -->
+			     <div id="container"><a href="http://www.macromedia.com/go/getflashplayer">Get the Flash Player</a> to see this player.
+				 <a href="http://www.shouthost.com/">Shoutcast &amp; Icecast Server</a></div>
+				 <script type="text/javascript" src="http://www.shouthost.com/freeflashplayer/player/swfobject.js"></script>
+				 <script type='text/javascript'>
+				 var s1 = new SWFObject('http://www.shouthost.com/freeflashplayer/player/player.swf','player',"340","50","9","#FFFFFF");
+				 s1.addParam('allowfullscreen','true');
+				 s1.addParam('allowscriptaccess','always');
+				 s1.addParam("flashvars","skin=http://www.shouthost.com/freeflashplayer/skins/bekle.swf&title=Live Stream&type=sound&file=http://localhost:8000/stream?type=.mp3&13202692901&duration=99999&id=scplayer&autostart=true");
+				 s1.write("container");
+				 </script>
                 </div>
                 <div class = 'footercontainer'>
                     <div class='footer'>
