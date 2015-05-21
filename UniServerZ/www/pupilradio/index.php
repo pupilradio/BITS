@@ -21,7 +21,7 @@
                             <a href="request.php">Request</a>
                         </li>
                         <li>
-                            <a href="genres.php">Genre</a>
+                            <a href="radionomy.php">Radionomy</a>
                         </ul>
                     </div>
                 </div>
@@ -45,7 +45,7 @@
                             <a href="index.php">home</a> | 
                             <a href="about.php">aboutus </a> | 
                             <a href="request.php">request</a> | 
-                            <a href="genres.php">genre</a>
+                            <a href="radionomy.php">Radionomy</a>
                         </p>
                     </div>
                 </div>
