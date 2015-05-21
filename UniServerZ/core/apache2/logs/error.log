@@ -81,3 +81,11 @@
 [Thu May 21 17:52:25.731344 2015] [:error] [pid 2716:tid 1844] [client ::1:65393] script 'G:/RMIT/Building_IT_Systems/Github_BITS_PupilRadio/PupilRadio/UniServerZ/www/index.php' not found or unable to stat
 [Thu May 21 17:52:37.354329 2015] [:error] [pid 2716:tid 1856] [client ::1:65416] script 'G:/RMIT/Building_IT_Systems/Github_BITS_PupilRadio/PupilRadio/UniServerZ/www/index.php' not found or unable to stat
 [Thu May 21 18:31:41.851767 2015] [access_compat:error] [pid 2716:tid 1852] [client 192.168.56.1:49453] AH01797: client denied by server configuration: G:/RMIT/Building_IT_Systems/Github_BITS_PupilRadio/PupilRadio/UniServerZ/www/
+[Thu May 21 19:38:01.908395 2015] [core:warn] [pid 6356:tid 300] AH00098: pid file G:/RMIT/Building_IT_Systems/Github_BITS_PupilRadio/PupilRadio/UniServerZ/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu May 21 19:38:02.116533 2015] [mpm_winnt:notice] [pid 6356:tid 300] AH00455: Apache/2.4.12 (Win32) PHP/5.4.39 configured -- resuming normal operations
+[Thu May 21 19:38:02.116533 2015] [mpm_winnt:notice] [pid 6356:tid 300] AH00456: Apache Lounge VC10 Server built: Mar 22 2015 13:04:01
+[Thu May 21 19:38:02.116533 2015] [core:notice] [pid 6356:tid 300] AH00094: Command line: 'G:\\RMIT\\Building_IT_Systems\\Github_BITS_PupilRadio\\PupilRadio\\UniServerZ\\core\\apache2\\bin\\httpd_z.exe -d G:/RMIT/Building_IT_Systems/Github_BITS_PupilRadio/PupilRadio/UniServerZ/core/apache2 -f G:\\RMIT\\Building_IT_Systems\\Github_BITS_PupilRadio\\PupilRadio\\UniServerZ\\core\\apache2\\conf\\httpd.conf -d G:\\RMIT\\Building_IT_Systems\\Github_BITS_PupilRadio\\PupilRadio\\UniServerZ\\core\\apache2'
+[Thu May 21 19:38:02.126540 2015] [mpm_winnt:notice] [pid 6356:tid 300] AH00418: Parent: Created child process 9388
+[Thu May 21 19:38:03.991785 2015] [mpm_winnt:notice] [pid 9388:tid 660] AH00354: Child: Starting 150 worker threads.
+[Thu May 21 19:38:04.007795 2015] [:error] [pid 9388:tid 1556] [client ::1:50270] script 'G:/RMIT/Building_IT_Systems/Github_BITS_PupilRadio/PupilRadio/UniServerZ/www/index.php' not found or unable to stat
+[Thu May 21 19:38:15.969114 2015] [:error] [pid 9388:tid 1652] [client ::1:50274] script 'G:/RMIT/Building_IT_Systems/Github_BITS_PupilRadio/PupilRadio/UniServerZ/www/pupindex.php' not found or unable to stat

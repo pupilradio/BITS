@@ -27,7 +27,7 @@
                 </div>
             </div>
             <div class='mainbodycontainer'>
-                <h1 > <a href="http://listen.radionomy.com/pupilradio" style="color:#000066"> PupilRadio Radionomy < /a> </h1>
+                <h1 > <a href="http://listen.radionomy.com/pupilradio" style="color:#000066"> Listen To PupilRadio, Radionomy </a> </h1>
                 
             </div>
                 <div class = 'footercontainer'>
