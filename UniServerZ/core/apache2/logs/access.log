@@ -435,3 +435,5 @@
 ::1 - - [21/May/2015:20:06:34 +1000] "GET /pupilradio/radionomy.php HTTP/1.1" 200 532 "http://localhost/pupilradio/about.php" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
 ::1 - - [21/May/2015:20:31:34 +1000] "GET /pupilradio/about.php HTTP/1.1" 200 827 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
 ::1 - - [21/May/2015:20:31:37 +1000] "GET /pupilradio/radionomy.php HTTP/1.1" 200 532 "http://localhost/pupilradio/about.php" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+::1 - - [21/May/2015:21:40:15 +1000] "GET / HTTP/1.1" 200 448 "-" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"
+::1 - - [21/May/2015:21:40:18 +1000] "GET /pupilradio/ HTTP/1.1" 200 832 "http://localhost/" "Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.152 Safari/537.36"

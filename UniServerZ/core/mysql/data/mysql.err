@@ -276,3 +276,25 @@ Version: '5.5.42'  socket: ''  port: 3306  MySQL Community Server (GPL)
 150521 19:40:49  InnoDB: Shutdown completed; log sequence number 1617969
 150521 19:40:49 [Note] G:\RMIT\Building_IT_Systems\Github_BITS_PupilRadio\PupilRadio\UniServerZ\core\mysql\bin\mysqld_z.exe: Shutdown complete
 
+150521 21:40:13 [Note] Plugin 'FEDERATED' is disabled.
+150521 21:40:13 InnoDB: The InnoDB memory heap is disabled
+150521 21:40:13 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+150521 21:40:13 InnoDB: Compressed tables use zlib 1.2.3
+150521 21:40:13 InnoDB: Initializing buffer pool, size = 16.0M
+150521 21:40:13 InnoDB: Completed initialization of buffer pool
+150521 21:40:13 InnoDB: highest supported file format is Barracuda.
+150521 21:40:14  InnoDB: Waiting for the background threads to start
+150521 21:40:15 InnoDB: 5.5.42 started; log sequence number 1617969
+150521 21:40:15 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3306
+150521 21:40:15 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+150521 21:40:15 [Note] Server socket created on IP: '127.0.0.1'.
+150521 21:40:15 [Note] Event Scheduler: Loaded 0 events
+150521 21:40:15 [Note] G:\RMIT\Building_IT_Systems\Github_BITS_PupilRadio\PupilRadio\UniServerZ\core\mysql\bin\mysqld_z.exe: ready for connections.
+Version: '5.5.42'  socket: ''  port: 3306  MySQL Community Server (GPL)
+150521 21:50:18 [Note] G:\RMIT\Building_IT_Systems\Github_BITS_PupilRadio\PupilRadio\UniServerZ\core\mysql\bin\mysqld_z.exe: Normal shutdown
+
+150521 21:50:18 [Note] Event Scheduler: Purging the queue. 0 events
+150521 21:50:18  InnoDB: Starting shutdown...
+150521 21:50:19  InnoDB: Shutdown completed; log sequence number 1617969
+150521 21:50:19 [Note] G:\RMIT\Building_IT_Systems\Github_BITS_PupilRadio\PupilRadio\UniServerZ\core\mysql\bin\mysqld_z.exe: Shutdown complete
+
