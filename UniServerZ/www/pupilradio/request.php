@@ -8,6 +8,7 @@
     </head>
     <body>
         <div class='headercontainer'>
+       <a href="index.php">  <img id="banner" src="../images/banner.png"/></a>
             <div class='header'>
                 <div id="hmenu">
                     <ul>
@@ -27,7 +28,9 @@
                 </div>
             </div>
             <div class='mainbodycontainer'>
-                
+                <div id="container" >
+                <p style="font-size:36px; text-align:center;">Under Construction</p>  
+                </div>
             </div>
                 <div class = 'footercontainer'>
                     <div class='footer'>

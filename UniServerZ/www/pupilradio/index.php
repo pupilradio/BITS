@@ -8,6 +8,7 @@
     </head>
     <body>
         <div class='headercontainer'>
+        <a href="index.php">  <img id="banner" src="../images/banner.png"/></a>
             <div class='header'>
                 <div id="hmenu">
                     <ul>
@@ -27,15 +28,17 @@
                 </div>
             </div>
             <div class='mainbodycontainer'>
-			     <div id="container"><a href="http://www.macromedia.com/go/getflashplayer">Get the Flash Player</a> to see this player.
+             <p align="center" style="font-size:24px;"> You are now listening to PupilRadio Online Streaming...</p> 
+			     <div id="musicPlayer"><a href="http://www.macromedia.com/go/getflashplayer">Get the Flash Player</a> to see this player.
 				 <a href="http://www.shouthost.com/">Shoutcast &amp; Icecast Server</a></div>
 				 <script type="text/javascript" src="http://www.shouthost.com/freeflashplayer/player/swfobject.js"></script>
 				 <script type='text/javascript'>
-				 var s1 = new SWFObject('http://www.shouthost.com/freeflashplayer/player/player.swf','player',"340","50","9","#FFFFFF");
+				 var s1 = new SWFObject('http://www.shouthost.com/freeflashplayer/player/player.swf','player',"500","50","9");
 				 s1.addParam('allowfullscreen','true');
 				 s1.addParam('allowscriptaccess','always');
+				 s1.addParam('wmode','transparent');
 				 s1.addParam("flashvars","skin=http://www.shouthost.com/freeflashplayer/skins/bekle.swf&title=Live Stream&type=sound&file=http://localhost:8000/stream?type=.mp3&13202692901&duration=99999&id=scplayer&autostart=true");
-				 s1.write("container");
+				 s1.write("musicPlayer");
 				 </script>
                 </div>
                 <div class = 'footercontainer'>
@@ -49,6 +52,7 @@
                         </p>
                     </div>
                 </div>
+                -
             </body>
         </html>
 <?php ob_flush(); ?>

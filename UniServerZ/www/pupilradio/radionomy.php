@@ -8,6 +8,7 @@
     </head>
     <body>
         <div class='headercontainer'>
+         <a href="index.php">  <img id="banner" src="../images/banner.png"/></a>
             <div class='header'>
                 <div id="hmenu">
                     <ul>

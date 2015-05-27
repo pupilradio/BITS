@@ -16,13 +16,20 @@ body {
 .headercontainer {
   background: url(../images/bg_HeadFoot.png) repeat-x;
   min-width: 999px;
-  height: 60px;
+  height: 65px;
   border: 1px solid #666;
   left: 0;
 }
 
+#banner{
+padding-top:7px;
+padding-left:15px;
+width:450px;
+height:50px;
+}
+
 div#hmenu {
-  margin: 40px 0px 0px -45px;
+  margin: -15px 0px 0px -45px;
   background-color: transparent;
   width: 100%;
   text-align: right;
@@ -87,6 +94,32 @@ div#hmenu ul a:hover {
   background-size: cover;
 }
 
+#container{
+background: rgba(25, 25, 25, .3);
+    color: white;
+    font-size: 20px;
+    position: fixed;
+    top: 20%;
+    bottom: 20%;
+    left: 10%;
+    right: 10%;	
+}
+
+#container p{
+text-align:justify;
+margin:20px 20px 20px 20px;
+}
+
+
+#musicPlayer{
+width:50%;
+padding-bottom: 25px;
+margin-left:5%;
+margin-right:50%;
+position: absolute;
+bottom: 50px;
+}
+/*
 #player {
   color: white;
   height: 50px;
@@ -98,7 +131,7 @@ div#hmenu ul a:hover {
   width: 50%;
   margin: 0 auto;
 }
-
+*/
 .footercontainer {
   background: url(../images/bg_HeadFoot.png) repeat-x;
   width: 100%;

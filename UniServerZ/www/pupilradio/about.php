@@ -8,6 +8,7 @@
     </head>
     <body>
         <div class='headercontainer'>
+      <a href="index.php">  <img id="banner" src="../images/banner.png"/></a>
             <div class='header'>
                 <div id="hmenu">
                     <ul>
@@ -28,9 +29,7 @@
             </div>
             <div class='mainbodycontainer'>
                 <div id="container" >
-                <p align="center" style="color:#0000FF" style="font:'Courier New', Courier, monospace" style="font-size:16px">
-                	Everyone loves to listen to music and we thought an online radio would be a great idea to broadcasts popular songs especially without any commercial advertisements. This online radio website will have pre-loaded popular songs played randomly and also provide an option for the user to request their favorite songs from the available list. As the project team has some prior experience in developing websites, we thought of enhancing our web technology skills by doing this project.
-                 </p>  
+                <p>&emsp; Everyone loves to listen to music and we thought an online radio would be a great idea to broadcasts popular songs especially without any commercial advertisements. This online radio website will have pre-loaded popular songs played randomly and also provide an option for the user to request their favorite songs from the available list. As the project team has some prior experience in developing websites, we thought of enhancing our web technology skills by doing this project.</p>  
                 </div>
             </div>
                 <div class = 'footercontainer'>
