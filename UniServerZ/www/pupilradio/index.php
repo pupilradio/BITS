@@ -8,7 +8,7 @@
     </head>
     <body>
         <div class='headercontainer'>
-        <a href="index.php">  <img id="banner" src="../images/banner.png"/></a>
+        <a href="index.php">  <img id="banner" src="images/banner.png"/></a>
             <div class='header'>
                 <div id="hmenu">
                     <ul>
@@ -48,7 +48,7 @@
                             <a href="index.php">home</a> | 
                             <a href="about.php">aboutus </a> | 
                             <a href="request.php">request</a> | 
-                            <a href="radionomy.php">Radionomy</a>
+                            <a href="radionomy.php">radionomy</a>
                         </p>
                     </div>
                 </div>

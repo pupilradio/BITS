@@ -8,7 +8,7 @@
     </head>
     <body>
         <div class='headercontainer'>
-      <a href="index.php">  <img id="banner" src="../images/banner.png"/></a>
+      <a href="index.php">  <img id="banner" src="images/banner.png"/></a>
             <div class='header'>
                 <div id="hmenu">
                     <ul>
@@ -29,7 +29,7 @@
             </div>
             <div class='mainbodycontainer'>
                 <div id="container" >
-                <p>&emsp; Everyone loves to listen to music and we thought an online radio would be a great idea to broadcasts popular songs especially without any commercial advertisements. This online radio website will have pre-loaded popular songs played randomly and also provide an option for the user to request their favorite songs from the available list. As the project team has some prior experience in developing websites, we thought of enhancing our web technology skills by doing this project.</p>  
+                <p>&emsp;  This online radio website developed by RMIT University CSIT students. This is a requirement project for Building IT Systems course. We also added and external music stream resourced from www.radionomy.com </p>  
                 </div>
             </div>
                 <div class = 'footercontainer'>
@@ -38,7 +38,7 @@
                         <p class="links">
                             <a href="index.php">home</a> | 
                             <a href="about.php">aboutus </a> | 
-                            <a href="#request.php">request</a> | 
+                            <a href="request.php">request</a> | 
                             <a href="radionomy.php">radionomy</a>
                         </p>
                     </div>
