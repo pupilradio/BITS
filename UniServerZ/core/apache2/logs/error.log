@@ -111,3 +111,17 @@
 [Thu May 28 17:48:36.210257 2015] [mpm_winnt:notice] [pid 11776:tid 328] AH00418: Parent: Created child process 11700
 [Thu May 28 17:48:39.730690 2015] [mpm_winnt:notice] [pid 11700:tid 664] AH00354: Child: Starting 150 worker threads.
 [Thu May 28 17:50:12.238390 2015] [:error] [pid 11700:tid 1864] [client ::1:54461] script 'G:/RMIT/Building_IT_Systems/Github_BITS_PupilRadio/PupilRadio_Bits/UniServerZ/www/index.php' not found or unable to stat
+[Fri May 29 12:11:13.321661 2015] [core:warn] [pid 11176:tid 308] AH00098: pid file G:/RMIT/Building_IT_Systems/Github_BITS_PupilRadio/PupilRadio_Bits/UniServerZ/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri May 29 12:11:14.761864 2015] [mpm_winnt:notice] [pid 11176:tid 308] AH00455: Apache/2.4.12 (Win32) PHP/5.4.39 configured -- resuming normal operations
+[Fri May 29 12:11:14.761864 2015] [mpm_winnt:notice] [pid 11176:tid 308] AH00456: Apache Lounge VC10 Server built: Mar 22 2015 13:04:01
+[Fri May 29 12:11:14.761864 2015] [core:notice] [pid 11176:tid 308] AH00094: Command line: 'G:\\RMIT\\Building_IT_Systems\\Github_BITS_PupilRadio\\PupilRadio_Bits\\UniServerZ\\core\\apache2\\bin\\httpd_z.exe -d G:/RMIT/Building_IT_Systems/Github_BITS_PupilRadio/PupilRadio_Bits/UniServerZ/core/apache2 -f G:\\RMIT\\Building_IT_Systems\\Github_BITS_PupilRadio\\PupilRadio_Bits\\UniServerZ\\core\\apache2\\conf\\httpd.conf -d G:\\RMIT\\Building_IT_Systems\\Github_BITS_PupilRadio\\PupilRadio_Bits\\UniServerZ\\core\\apache2'
+[Fri May 29 12:11:14.781858 2015] [mpm_winnt:notice] [pid 11176:tid 308] AH00418: Parent: Created child process 32
+[Fri May 29 12:11:16.730126 2015] [mpm_winnt:notice] [pid 32:tid 700] AH00354: Child: Starting 150 worker threads.
+[Fri May 29 12:11:16.750127 2015] [:error] [pid 32:tid 1876] [client ::1:61984] script 'G:/RMIT/Building_IT_Systems/Github_BITS_PupilRadio/PupilRadio_Bits/UniServerZ/www/index.php' not found or unable to stat
+[Mon Jun 01 11:05:57.765069 2015] [core:warn] [pid 10352:tid 348] AH00098: pid file G:/RMIT/Building_IT_Systems/Github_BITS_PupilRadio/PupilRadio_Bits/UniServerZ/core/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Jun 01 11:05:59.611142 2015] [mpm_winnt:notice] [pid 10352:tid 348] AH00455: Apache/2.4.12 (Win32) PHP/5.4.39 configured -- resuming normal operations
+[Mon Jun 01 11:05:59.611142 2015] [mpm_winnt:notice] [pid 10352:tid 348] AH00456: Apache Lounge VC10 Server built: Mar 22 2015 13:04:01
+[Mon Jun 01 11:05:59.611142 2015] [core:notice] [pid 10352:tid 348] AH00094: Command line: 'G:\\RMIT\\Building_IT_Systems\\Github_BITS_PupilRadio\\PupilRadio_Bits\\UniServerZ\\core\\apache2\\bin\\httpd_z.exe -d G:/RMIT/Building_IT_Systems/Github_BITS_PupilRadio/PupilRadio_Bits/UniServerZ/core/apache2 -f G:\\RMIT\\Building_IT_Systems\\Github_BITS_PupilRadio\\PupilRadio_Bits\\UniServerZ\\core\\apache2\\conf\\httpd.conf -d G:\\RMIT\\Building_IT_Systems\\Github_BITS_PupilRadio\\PupilRadio_Bits\\UniServerZ\\core\\apache2'
+[Mon Jun 01 11:05:59.623142 2015] [mpm_winnt:notice] [pid 10352:tid 348] AH00418: Parent: Created child process 9920
+[Mon Jun 01 11:06:01.931386 2015] [mpm_winnt:notice] [pid 9920:tid 648] AH00354: Child: Starting 150 worker threads.
+[Mon Jun 01 11:06:01.963386 2015] [:error] [pid 9920:tid 1864] [client ::1:56708] script 'G:/RMIT/Building_IT_Systems/Github_BITS_PupilRadio/PupilRadio_Bits/UniServerZ/www/index.php' not found or unable to stat
