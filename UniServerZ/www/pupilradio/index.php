@@ -38,6 +38,9 @@
 				 s1.addParam('allowscriptaccess','always');
 				 s1.addParam('wmode','transparent');
 				 s1.addParam("flashvars","skin=http://www.shouthost.com/freeflashplayer/skins/bekle.swf&title=Live Stream&type=sound&file=http://localhost:8000/stream?type=.mp3&13202692901&duration=99999&id=scplayer&autostart=true");
+				 <!-- localhost-->
+				 <!-- 10.1.1.12-->
+				 <!-- RMIT  10.194.47.12 -->
 				 s1.write("musicPlayer");
 				 </script>
                 </div>
