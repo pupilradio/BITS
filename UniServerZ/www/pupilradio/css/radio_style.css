@@ -96,7 +96,7 @@ div#hmenu ul a:hover {
 
 #container{
 background: rgba(25, 25, 25, .3);
-    color: white;
+    color: #006;
     font-size: 20px;
     position: fixed;
     top: 20%;
